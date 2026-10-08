@@ -1,0 +1,6 @@
+{
+  "name": "RSTPL HRMS - Smart Enterprise HR Platform",
+  "description": "Enterprise Multi-Tenant HRMS & Payroll SaaS by RS Technovisions XpertSkillCop with Biometric Sync, ESS/MSS, ATS, PMS, and AI HR Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
